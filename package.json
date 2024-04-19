@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nikhilbudhia2297/BoilerPlate#readme",
   "dependencies": {
+    "archiver": "^7.0.1",
     "axios": "^0.20.0",
     "axios-curlirize": "^1.3.7",
     "body-parser": "^1.19.0",
